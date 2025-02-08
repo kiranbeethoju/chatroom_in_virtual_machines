@@ -1,4 +1,4 @@
-# IITJ Chat Application
+# IITJ Chat Application POC
 
 A real-time chat application built specifically for IITJ students and faculty, featuring email domain verification and secure access through PIN authentication.
 
